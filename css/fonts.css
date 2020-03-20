@@ -1,0 +1,21 @@
+/* @font-face */
+
+@font-face{
+    font-family: "Roboto";
+    src: '../fonts/roboto/Roboto-Regular.ttf';
+}
+
+@font-face {
+    font-family: 'Eurostile';
+    font-style: normal;
+    font-weight: normal;
+    src: '../fonts/eurositile/eurostile.woff';
+    }
+    
+    
+    @font-face {
+    font-family: 'EuroStyle Normal';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EuroStyle Normal'), url('EuroStyle Normal.woff') format('woff');
+    }
